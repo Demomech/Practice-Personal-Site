@@ -1,0 +1,12 @@
+ul {
+  font-size:18px
+}
+
+body{background-color:aliceblue}
+
+title{color:navy; text-align:center}
+h1{color:darkblue; text-align:center}
+h2{color:darkblue; text-align:center}
+p{font-size:18px; text-align:center}
+#id-selector-demo{color:green}
+li[value="4"]{color:blue}
